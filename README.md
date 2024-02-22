@@ -18,4 +18,4 @@
 
 </div>
 <br/>
-Sou aluno de um curso superior de Análise de Sistemas, e tenho o sonho de seguir carreira nessa área.
+Sou técnico em Tecnologia da Informação pelo Instituto Federal do Maranhão (IFMA) e atualmente estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição.Desenvolvedor front-end,estou em busca de oportunidades de estágio. Minhas habilidades incluem JavaScript, HTML, React Native e CSS.
