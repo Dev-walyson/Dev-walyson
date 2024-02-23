@@ -1,7 +1,7 @@
 ### Olá! Eu sou Walyson Moura 😊
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_walyson/)
 
-![Walyson MM GitHub stats](https://github-readme-stats.vercel.app/api?username=walysonmm&show_icons=true&theme=transparent)
+![Dev-walyson GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-walyson&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia
 
